@@ -1,5 +1,5 @@
 # bgl41.to.emi
-This script converts Beagle4.1's gt.ibd output files to EMI input.<tr>
+This script converts Beagle4.1's gt.ibd output files to EMI input.<p>
 The script require R-2.15.0
 Before starting the script type: module load R-2.15.0
 To start the script type: ./bgl41.to.emi.sh file.gt.ibd file.map
